@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guochun Yang / Site Title"
+title                    : "Guochun Yang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
