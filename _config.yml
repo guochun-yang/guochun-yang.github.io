@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Guochun Yang"
+  name             : "Guochun Yang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Researcher of Cognitive Neuroscience"
+  location         : "Iowa City, IA, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_T5G8DsAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,19 +103,19 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0516-8772"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "amazinger2012"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  bilibili         : "https://space.bilibili.com/1384608723?spm_id_from=333.1007.0.0"
 
 # Reading Files
 include:
