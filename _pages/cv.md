@@ -38,11 +38,7 @@ Skills
   * Machine learning: SVM, representational similarity analysis (RSA)
 
 A Full list of Publications
-======
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
+======  
 23. Yang, G.#, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806
 22. Yang, G.#, Xu, H.#, Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). The Congruency sequence effect is modulated by the similarity of conflicts. Journal of Experimental Psychology: Learning, Memory and Cognition, 47(10), 1705-1719. https://doi.org/10.1037/xlm0001054
 21. Nan, W., Yan, L., Yang, G., Liu, X., Fu, S (2021). Two processing stages of the SNARC effect. Psychological Research, 1-11. DOI: https://doi.org/10.1007/s00426-021-01506-5
