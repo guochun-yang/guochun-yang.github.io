@@ -69,19 +69,15 @@ A Full list of Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+<ul>{% for post in site.talks %}
+  {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   2022	Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control. Brain and Cognitive Science Center Forum, Guangzhou University.
-2019	The influence of conflict similarity on conflict adaptation effect. 2019 Annual Conference of General Psychology and Experimental Psychology Committee of Chinese Psychological Society.
+  2019	The influence of conflict similarity on conflict adaptation effect. 2019 Annual Conference of General Psychology and Experimental Psychology Committee of Chinese Psychological Society.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+<ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   2021		fMRI basics and data analyses (https://space.bilibili.com/1384608723/video)
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
