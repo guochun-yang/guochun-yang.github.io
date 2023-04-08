@@ -30,11 +30,11 @@ author_profile: true
 
 * Li, Z., **Yang, G.**, Wu, H., Li, Q., Xu, H., Göschlc, F., Nolte, G., Liu, X (2021). Modality-specific neural mechanisms of cognitive control in a Stroop-like task. Brain and Cognition, 147, 105662. DOI: https://doi.org/10.1016/j.bandc.2020.105662 
 
-* Raiha, S.#, **Yang, G.**#, Wang L., Dai W., Wu H., Meng G., Zhong B, Liu X (2020). Altered Reward Processing System in Internet Gaming Disorder. Frontiers in Psychiatry, 11:599141. DOI: https://doi.org/10.3389/fpsyt.2020.599141 
+* Raiha, S.#, **Yang, G.#**, Wang L., Dai W., Wu H., Meng G., Zhong B, Liu X (2020). Altered Reward Processing System in Internet Gaming Disorder. Frontiers in Psychiatry, 11:599141. DOI: https://doi.org/10.3389/fpsyt.2020.599141 
 
 * **Yang, G.**, Wu, H., Qi, Y., & Liu, X. (2021). Cognitive and neural mechanisms of human gender processing. Advances in Psychological Science [Chinese], 29(1),1-10. DOI: https://doi.org/10.3724/SP.J.1042.2020.02008 
 
-* Ouyang, Y., **Yang, G.**, Zhu, Y., Tan, Q., & Liu, X. (2020). Better regulatory performance without greater cognitive resource expenditure: The effect of motivational states on self-regulation. Personality and Individual Differences, 166. DOI: https://doi.org/10.1016/j.paid.2020.110170 
+* Ouyang, Y.*, <strong>Yang, G.*</strong>, Zhu, Y., Tan, Q., & Liu, X. (2020). Better regulatory performance without greater cognitive resource expenditure: The effect of motivational states on self-regulation. Personality and Individual Differences, 166. DOI: https://doi.org/10.1016/j.paid.2020.110170 
 
 * Li, Z., Goschl, F., & <strong>Yang, G.*</strong> (2020). Dissociated Neural Mechanisms of Target and Distractor Processing Facilitated by Expectations. Journal of Neuroscience (Journal Club), 40(10), 1997-1999. DOI: https://doi.org/10.1523/JNEUROSCI.2562-19.2020 
 
@@ -52,7 +52,7 @@ author_profile: true
 
 * Chen, W., Li, Q., Mei, S., Yi, W., **Yang, G.**, Zhou, S., Liu, X., & Zheng, Y. (2018). Diminished choice effect on anticipating improbable rewards. Neuropsychologia, 111, 45-50. DOI: https://doi.org/10.1016/j.neuropsychologia.2018.01.015 
 
-* Li, Q.#, **Yang, G.** #, Li, Z., Qi, Y., Cole, M. W., & Liu, X. (2017). Conflict detection and resolution rely on a combination of common and distinct cognitive control networks. Neuroscience and Biobehavioral Reviews, 83, 123-131. DOI: https://doi.org/10.1016/j.neubiorev.2017.09.032 
+* Li, Q.#, **Yang, G.#**, Li, Z., Qi, Y., Cole, M. W., & Liu, X. (2017). Conflict detection and resolution rely on a combination of common and distinct cognitive control networks. Neuroscience and Biobehavioral Reviews, 83, 123-131. DOI: https://doi.org/10.1016/j.neubiorev.2017.09.032 
 
 * **Yang, G.**, Nan, W., Zheng, Y., Wu, H., Li, Q., & Liu, X. (2017). Distinct cognitive control mechanisms as revealed by modality-specific conflict adaptation effects. Journal of Experimental Psychology: Human Perception and Performance, 43(4), 807-818. DOI: https://doi.org/10.1037/xhp0000351 
 
