@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -22,9 +23,9 @@ Selected Publications & Preprints
 
 * **Yang, G.#**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/jocn_2022.pdf)
 
-* **Yang, G.#**, Xu, H.#, Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). The Congruency sequence effect is modulated by the similarity of conflicts. Journal of Experimental Psychology: Learning, Memory and Cognition, 47(10), 1705-1719. https://doi.org/10.1037/xlm0001054. <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/JEP_LMC_2021.pdf) <a href="https://guochun-yang.blogspot.com/2023/04/conflict-adjustment-is-modulated-by.html">blog</a> <i class="bi bi-file-pdf"></i>[BLOG](https://guochun-yang.blogspot.com/2023/04/conflict-adjustment-is-modulated-by.html)
+* **Yang, G.#**, Xu, H.#, Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). The Congruency sequence effect is modulated by the similarity of conflicts. Journal of Experimental Psychology: Learning, Memory and Cognition, 47(10), 1705-1719. https://doi.org/10.1037/xlm0001054. <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/JEP_LMC_2021.pdf) <i class="fa-brands fa-blogger"></i>[BLOG](https://guochun-yang.blogspot.com/2023/04/conflict-adjustment-is-modulated-by.html)
 
-* Li, Z., Goschl, F., & <strong>Yang, G.*</strong> (2020). Dissociated Neural Mechanisms of Target and Distractor Processing Facilitated by Expectations. Journal of Neuroscience (Journal Club), 40(10), 1997-1999. DOI: https://doi.org/10.1523/JNEUROSCI.2562-19.2020. <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/JN_2020.pdf)
+* Li, Z., Goschl, F., & <strong>Yang, G.*</strong> (2020). Dissociated Neural Mechanisms of Target and Distractor Processing Facilitated by Expectations. Journal of Neuroscience (Journal Club), 40(10), 1997-1999. DOI: https://doi.org/10.1523/JNEUROSCI.2562-19.2020. <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/JN_2020.pdf) <i class="bi bi-file-pdf"></i>[BLOG](https://guochun-yang.blogspot.com/2023/04/comment-how-expectation-modulates.html)
 
 * **Yang, G.**, Li, Z., Wu, H., & Liu, X. (2019). Generality and specificity of cognitive control: research logics and debates. Acta Physiologica Sinica [Chinese], 71(1), 140–148. DOI: https://doi.org/10.13294/j.aps.2018.0096. <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/Generality_Review_2019.pdf)
 
