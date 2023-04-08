@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -23,11 +23,12 @@ author_profile: true
 {% endfor %} -->
 
 Selected Publications & Preprints
-Click the <i class="zmdi zmdi-collection-pdf mdc-text-red"></i> and <i class="zmdi zmdi-blogger mdc-text-amber"></i> icons to see their pdf files and summary blogs, respectively.
 ======
-* **Yang, G.**, Wu, H., Li, Q., Liu, X., Fu, Z., & Jiang, J. (2023). Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control. bioRxiv, 2023-02. <a href="http://guochun-yang.github.io/files/Manuscript_forElife.pdf" style="color:red;"><i class="zmdi zmdi-collection-pdf mdc-text-red zmdi-hc-2x"></i></a> <a href="https://guochun-yang.blogspot.com/2023/04/struggling-control-in-unadaptable.html" style="color:orange;"><i class="zmdi zmdi-blogger mdc-text-amber zmdi-hc-2x"></i></a>
+Click the <i class="zmdi zmdi-collection-pdf mdc-text-red" style="color:red;"></i> and <i class="zmdi zmdi-blogger mdc-text-amber"></i> icons to see their pdf files and summary blogs, respectively.
 
-* **Yang, G.#**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <a href="http://guochun-yang.github.io/files/jocn_2022.pdf" style="color:red;"><i class="zmdi zmdi-collection-pdf mdc-text-red"></i></a> <a href="https://guochun-yang.blogspot.com/2023/04/struggling-control-in-unadaptable.html" style="color:orange;"><i class="zmdi zmdi-blogger mdc-text-amber"></i></a>
+* **Yang, G.**, Wu, H., Li, Q., Liu, X., Fu, Z., & Jiang, J. (2023). Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control. bioRxiv, 2023-02. <a href="http://guochun-yang.github.io/files/Manuscript_forElife.pdf" style="color:red;"><i class="zmdi zmdi-collection-pdf mdc-text-red"></i></a> <a href="https://guochun-yang.blogspot.com/2023/04/struggling-control-in-unadaptable.html" style="color:orange;"><i class="zmdi zmdi-blogger mdc-text-amber"></i></a>
+
+* **Yang, G.<sup>#</sup>**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <a href="http://guochun-yang.github.io/files/jocn_2022.pdf" style="color:red;"><i class="zmdi zmdi-collection-pdf mdc-text-red"></i></a> <a href="https://guochun-yang.blogspot.com/2023/04/struggling-control-in-unadaptable.html" style="color:orange;"><i class="zmdi zmdi-blogger mdc-text-amber"></i></a>
 
 * **Yang, G.#**, Xu, H.#, Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). The Congruency sequence effect is modulated by the similarity of conflicts. Journal of Experimental Psychology: Learning, Memory and Cognition, 47(10), 1705-1719. https://doi.org/10.1037/xlm0001054. <a href="http://guochun-yang.github.io/files/JEP_LMC_2021.pdf" style="color:red;"><i class="zmdi zmdi-collection-pdf mdc-text-red"></i></a> <a href="https://guochun-yang.blogspot.com/2023/04/conflict-adjustment-is-modulated-by.html" style="color:orange;"><i class="zmdi zmdi-blogger mdc-text-amber"></i></a>
 
