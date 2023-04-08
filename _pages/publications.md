@@ -22,8 +22,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-======
 Click the <i class="zmdi zmdi-collection-pdf" style="color:red;"></i> and <i class="zmdi zmdi-blogger" style="color:orange;"></i> icons to see their pdf files and summary blogs, respectively.
+
 "#" = co-first author; "*" = corresponding author.
 
 Selected Publications & Preprints
