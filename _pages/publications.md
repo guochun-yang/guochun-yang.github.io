@@ -17,17 +17,17 @@ author_profile: true
 
 Selected Publications
 
-* **Yang, G.#**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <a href="http://guochun-yang.github.io/files/jocn_2022.pdf">link</a>
+* **Yang, G.#**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <a href="http://guochun-yang.github.io/files/jocn_2022.pdf">pdf</a>
 
-* **Yang, G.#**, Xu, H.#, Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). The Congruency sequence effect is modulated by the similarity of conflicts. Journal of Experimental Psychology: Learning, Memory and Cognition, 47(10), 1705-1719. https://doi.org/10.1037/xlm0001054.  <a href="http://guochun-yang.github.io/files/jocn_2022.pdf">link</a>
+* **Yang, G.#**, Xu, H.#, Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). The Congruency sequence effect is modulated by the similarity of conflicts. Journal of Experimental Psychology: Learning, Memory and Cognition, 47(10), 1705-1719. https://doi.org/10.1037/xlm0001054. <a href="http://guochun-yang.github.io/files/JEP_LMC_2021.pdf">pdf</a>
 
-* Li, Z., Goschl, F., & <strong>Yang, G.*</strong> (2020). Dissociated Neural Mechanisms of Target and Distractor Processing Facilitated by Expectations. Journal of Neuroscience (Journal Club), 40(10), 1997-1999. DOI: https://doi.org/10.1523/JNEUROSCI.2562-19.2020 
+* Li, Z., Goschl, F., & <strong>Yang, G.*</strong> (2020). Dissociated Neural Mechanisms of Target and Distractor Processing Facilitated by Expectations. Journal of Neuroscience (Journal Club), 40(10), 1997-1999. DOI: https://doi.org/10.1523/JNEUROSCI.2562-19.2020. <a href="http://guochun-yang.github.io/files/JN_2020.pdf">pdf</a>
 
-* **Yang, G.**, Li, Z., Wu, H., & Liu, X. (2019). Generality and specificity of cognitive control: research logics and debates. Acta Physiologica Sinica [Chinese], 71(1), 140–148. DOI: https://doi.org/10.13294/j.aps.2018.0096
+* **Yang, G.**, Li, Z., Wu, H., & Liu, X. (2019). Generality and specificity of cognitive control: research logics and debates. Acta Physiologica Sinica [Chinese], 71(1), 140–148. DOI: https://doi.org/10.13294/j.aps.2018.0096. <a href="http://guochun-yang.github.io/files/Generality_Review_2019.pdf">pdf</a>
 
 * **Yang, G.**, Nan, W., Zheng, Y., Wu, H., Li, Q., & Liu, X. (2017). Distinct cognitive control mechanisms as revealed by modality-specific conflict adaptation effects. Journal of Experimental Psychology: Human Perception and Performance, 43(4), 807-818. DOI: https://doi.org/10.1037/xhp0000351 <a href="http://guochun-yang.github.io/files/JEP-HPP_2017.pdf">pdf</a> <a href="https://guochun-yang.blogspot.com/2023/04/cognitive-control-is-modality-specific.html">blog</a>
 
-* Li, Q.#, **Yang, G.#**, Li, Z., Qi, Y., Cole, M. W., & Liu, X. (2017). Conflict detection and resolution rely on a combination of common and distinct cognitive control networks. Neuroscience and Biobehavioral Reviews, 83, 123-131. DOI: https://doi.org/10.1016/j.neubiorev.2017.09.032 
+* Li, Q.#, **Yang, G.#**, Li, Z., Qi, Y., Cole, M. W., & Liu, X. (2017). Conflict detection and resolution rely on a combination of common and distinct cognitive control networks. Neuroscience and Biobehavioral Reviews, 83, 123-131. DOI: https://doi.org/10.1016/j.neubiorev.2017.09.032. <a href="http://guochun-yang.github.io/files/NBR_2017.pdf">pdf</a> 
 
 
 
