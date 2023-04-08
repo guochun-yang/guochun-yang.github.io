@@ -18,9 +18,9 @@ author_profile: true
 
 Selected Publications
 ======
-* **Yang, G.#**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <a href="http://guochun-yang.github.io/files/jocn_2022.pdf">pdf</a> <i class="fa fa-file-pdf-o"></i> [PDF file](http://guochun-yang.github.io/files/jocn_2022.pdf)
+* **Yang, G.#**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <a href="http://guochun-yang.github.io/files/jocn_2022.pdf">pdf</a> <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/jocn_2022.pdf)
 
-* **Yang, G.#**, Xu, H.#, Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). The Congruency sequence effect is modulated by the similarity of conflicts. Journal of Experimental Psychology: Learning, Memory and Cognition, 47(10), 1705-1719. https://doi.org/10.1037/xlm0001054. <a href="http://guochun-yang.github.io/files/JEP_LMC_2021.pdf">pdf</a>
+* **Yang, G.#**, Xu, H.#, Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). The Congruency sequence effect is modulated by the similarity of conflicts. Journal of Experimental Psychology: Learning, Memory and Cognition, 47(10), 1705-1719. https://doi.org/10.1037/xlm0001054. <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/JEP_LMC_2021.pdf)
 
 * Li, Z., Goschl, F., & <strong>Yang, G.*</strong> (2020). Dissociated Neural Mechanisms of Target and Distractor Processing Facilitated by Expectations. Journal of Neuroscience (Journal Club), 40(10), 1997-1999. DOI: https://doi.org/10.1523/JNEUROSCI.2562-19.2020. <a href="http://guochun-yang.github.io/files/JN_2020.pdf">pdf</a>
 
@@ -28,7 +28,7 @@ Selected Publications
 
 * **Yang, G.**, Nan, W., Zheng, Y., Wu, H., Li, Q., & Liu, X. (2017). Distinct cognitive control mechanisms as revealed by modality-specific conflict adaptation effects. Journal of Experimental Psychology: Human Perception and Performance, 43(4), 807-818. DOI: https://doi.org/10.1037/xhp0000351 <a href="http://guochun-yang.github.io/files/JEP-HPP_2017.pdf">pdf</a> <a href="https://guochun-yang.blogspot.com/2023/04/cognitive-control-is-modality-specific.html">blog</a>
 
-* Li, Q.#, **Yang, G.#**, Li, Z., Qi, Y., Cole, M. W., & Liu, X. (2017). Conflict detection and resolution rely on a combination of common and distinct cognitive control networks. Neuroscience and Biobehavioral Reviews, 83, 123-131. DOI: https://doi.org/10.1016/j.neubiorev.2017.09.032. <a href="http://guochun-yang.github.io/files/NBR_2017.pdf">pdf</a> 
+* Li, Q.#, **Yang, G.#**, Li, Z., Qi, Y., Cole, M. W., & Liu, X. (2017). Conflict detection and resolution rely on a combination of common and distinct cognitive control networks. Neuroscience and Biobehavioral Reviews, 83, 123-131. DOI: https://doi.org/10.1016/j.neubiorev.2017.09.032. <a href="http://guochun-yang.github.io/files/NBR_2017.pdf">pdf</a>
 
 
 Other Publications
@@ -43,13 +43,13 @@ Other Publications
 
 * Li, Z., **Yang, G.**, Wu, H., Li, Q., Xu, H., Göschlc, F., Nolte, G., Liu, X (2021). Modality-specific neural mechanisms of cognitive control in a Stroop-like task. Brain and Cognition, 147, 105662. DOI: https://doi.org/10.1016/j.bandc.2020.105662 
 
-* **Yang, G.**, Wu, H., Qi, Y., & Liu, X. (2021). Cognitive and neural mechanisms of human gender processing. Advances in Psychological Science [Chinese], 29(1),1-10. DOI: https://doi.org/10.3724/SP.J.1042.2020.02008 
+* **Yang, G.**, Wu, H., Qi, Y., & Liu, X. (2021). Cognitive and neural mechanisms of human gender processing. Advances in Psychological Science [Chinese], 29(1),1-10. DOI: https://doi.org/10.3724/SP.J.1042.2020.02008 <a href="http://guochun-yang.github.io/files/Gender_Review_2019.pdf">pdf</a>
 
 * Fu, D., Weber, C., **Yang, G.**, Kerzel, M., Nan, W., Barros, P., Wu, H., Liu, X., & Wermter, S. (2020). What Can Computational Models Learn From Human Selective Attention? A Review From an Audiovisual Unimodal and Crossmodal Perspective. Frontiers in Integrative Neuroscience, 14, 10. DOI: https://doi.org/10.3389/fnint.2020.00010 
 
-* Raiha, S.#, **Yang, G.#**, Wang L., Dai W., Wu H., Meng G., Zhong B, Liu X (2020). Altered Reward Processing System in Internet Gaming Disorder. Frontiers in Psychiatry, 11:599141. DOI: https://doi.org/10.3389/fpsyt.2020.599141 
+* Raiha, S.#, **Yang, G.#**, Wang L., Dai W., Wu H., Meng G., Zhong B, Liu X (2020). Altered Reward Processing System in Internet Gaming Disorder. Frontiers in Psychiatry, 11:599141. DOI: https://doi.org/10.3389/fpsyt.2020.599141 <a href="http://guochun-yang.github.io/files/Frontier_2020.pdf">pdf</a>
 
-* Ouyang, Y.*, <strong>Yang, G.*</strong>, Zhu, Y., Tan, Q., & Liu, X. (2020). Better regulatory performance without greater cognitive resource expenditure: The effect of motivational states on self-regulation. Personality and Individual Differences, 166. DOI: https://doi.org/10.1016/j.paid.2020.110170 
+* Ouyang, Y.*, <strong>Yang, G.*</strong>, Zhu, Y., Tan, Q., & Liu, X. (2020). Better regulatory performance without greater cognitive resource expenditure: The effect of motivational states on self-regulation. Personality and Individual Differences, 166. DOI: https://doi.org/10.1016/j.paid.2020.110170 <a href="http://guochun-yang.github.io/files/Personality_2020.pdf">pdf</a>
 
 * Yu, H., Nan, W., **Yang, G.**, Li, Q., Wu, H., & Liu, X. (2019). Your Performance Is My Concern: A Perspective-Taking Competition Task Affects ERPs to Opponent’s Outcomes. Frontiers in Neuroscience, 13, 1162. DOI: https://doi.org/10.3389/fnins.2019.01162 
 
@@ -63,6 +63,6 @@ Other Publications
 
 * Zheng, Y., Li, Q., Tian, M., Nan, W., **Yang, G.**, Liang, J., & Liu, X. (2017). Deficits in voluntary pursuit and inhibition of risk taking in sensation seeking. Human Brain Mapping. DOI: https://doi.org/10.1002/hbm.23807 
 
-* **Yang, G.**, Nan, W., Li Q., & X., L. (2015). Behavioral and electrophysiological profiles reveal domain-specific conflict processing. Advances in Computational Psychophysiology, 33-34. 
+* **Yang, G.**, Nan, W., Li Q., & X., L. (2015). Behavioral and electrophysiological profiles reveal domain-specific conflict processing. Advances in Computational Psychophysiology, 33-34. <a href="http://guochun-yang.github.io/files/CP_2015.pdf">pdf</a>
 
 * Zhou, P., **Yang, G.**, Nan, W., & Liu, X. (2015). The time course of attentional modulation on emotional conflict processing. Cognition & Emotion, 1-17. DOI: https://doi.org/10.1080/02699931.2015.1020051
