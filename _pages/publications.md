@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 Selected Publications
-
+======
 * **Yang, G.#**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <a href="http://guochun-yang.github.io/files/jocn_2022.pdf">pdf</a>
 
 * **Yang, G.#**, Xu, H.#, Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). The Congruency sequence effect is modulated by the similarity of conflicts. Journal of Experimental Psychology: Learning, Memory and Cognition, 47(10), 1705-1719. https://doi.org/10.1037/xlm0001054. <a href="http://guochun-yang.github.io/files/JEP_LMC_2021.pdf">pdf</a>
@@ -30,7 +30,8 @@ Selected Publications
 * Li, Q.#, **Yang, G.#**, Li, Z., Qi, Y., Cole, M. W., & Liu, X. (2017). Conflict detection and resolution rely on a combination of common and distinct cognitive control networks. Neuroscience and Biobehavioral Reviews, 83, 123-131. DOI: https://doi.org/10.1016/j.neubiorev.2017.09.032. <a href="http://guochun-yang.github.io/files/NBR_2017.pdf">pdf</a> 
 
 
-
+Other Publications
+======
 * Nan, W., Yan, L., **Yang, G.**, Liu, X., Fu, S (2021). Two processing stages of the SNARC effect. Psychological Research, 1-11. DOI: https://doi.org/10.1007/s00426-021-01506-5
 
 * Yan, L., **Yang, G.**, Nan, W., Liu, X., Fu, S (2021). The SNARC effect occurs in the response-selection stage. Acta Psychologica, 215, 103292. DOI: https://doi.org/10.1016/j.actpsy.2021.103292 
