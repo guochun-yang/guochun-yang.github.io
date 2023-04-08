@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-9zq+LjJQ+J6tJvzYjvQKgkxjQ9XfZn8sW4+U6yV7fZl1TJ8t1bKw5gZpX9dLW8z8mF5PbOyK2+0m0rNlGvC+Rw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> 
+<!-- integrity="sha512-9zq+LjJQ+J6tJvzYjvQKgkxjQ9XfZn8sW4+U6yV7fZl1TJ8t1bKw5gZpX9dLW8z8mF5PbOyK2+0m0rNlGvC+Rw==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
 
 <!-- {% if author.googlescholar %}
@@ -20,7 +21,7 @@ author_profile: true
 
 Selected Publications & Preprints
 ======
-* **Yang, G.**, Wu, H., Li, Q., Liu, X., Fu, Z., & Jiang, J. (2023). Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control. bioRxiv, 2023-02. <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/Manuscript_forElife.pdf)
+* **Yang, G.**, Wu, H., Li, Q., Liu, X., Fu, Z., & Jiang, J. (2023). Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control. bioRxiv, 2023-02. <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/Manuscript_forElife.pdf) <i class="fa-brands fa-blogger"></i>[BLOG](https://guochun-yang.blogspot.com/2023/04/struggling-control-in-unadaptable.html)
 
 * **Yang, G.#**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <i class="fa fa-file-pdf-o"></i>[PDF](http://guochun-yang.github.io/files/jocn_2022.pdf)
 
