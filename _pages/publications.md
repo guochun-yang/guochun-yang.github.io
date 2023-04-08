@@ -36,7 +36,7 @@ author_profile: true
 
 * Ouyang, Y., **Yang, G.**, Zhu, Y., Tan, Q., & Liu, X. (2020). Better regulatory performance without greater cognitive resource expenditure: The effect of motivational states on self-regulation. Personality and Individual Differences, 166. DOI: https://doi.org/10.1016/j.paid.2020.110170 
 
-* Li, Z., Goschl, F., & **Yang, G.*** (2020). Dissociated Neural Mechanisms of Target and Distractor Processing Facilitated by Expectations. Journal of Neuroscience (Journal Club), 40(10), 1997-1999. DOI: https://doi.org/10.1523/JNEUROSCI.2562-19.2020 
+* Li, Z., Goschl, F., & <strong>Yang, G.*</strong> (2020). Dissociated Neural Mechanisms of Target and Distractor Processing Facilitated by Expectations. Journal of Neuroscience (Journal Club), 40(10), 1997-1999. DOI: https://doi.org/10.1523/JNEUROSCI.2562-19.2020 
 
 * Fu, D., Weber, C., **Yang, G.**, Kerzel, M., Nan, W., Barros, P., Wu, H., Liu, X., & Wermter, S. (2020). What Can Computational Models Learn From Human Selective Attention? A Review From an Audiovisual Unimodal and Crossmodal Perspective. Frontiers in Integrative Neuroscience, 14, 10. DOI: https://doi.org/10.3389/fnint.2020.00010 
 
