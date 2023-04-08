@@ -17,7 +17,7 @@ author_profile: true
 
 Selected Publications
 ======
-* **Yang, G.#**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <a href="http://guochun-yang.github.io/files/jocn_2022.pdf">pdf</a>
+* **Yang, G.#**, Wang, K.#, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <a href="http://guochun-yang.github.io/files/jocn_2022.pdf">pdf</a> <i class="fa fa-file-pdf-o"></i> [PDF file](http://guochun-yang.github.io/files/jocn_2022.pdf)
 
 * **Yang, G.#**, Xu, H.#, Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). The Congruency sequence effect is modulated by the similarity of conflicts. Journal of Experimental Psychology: Learning, Memory and Cognition, 47(10), 1705-1719. https://doi.org/10.1037/xlm0001054. <a href="http://guochun-yang.github.io/files/JEP_LMC_2021.pdf">pdf</a>
 

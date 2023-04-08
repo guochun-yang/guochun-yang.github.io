@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-Education
+EDUCATION
 ======
 * B.S. in Clinical Laboratory Science, Wuhan University, 2012
 * Ph.D in Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences, 2018
 
-Research & Work experience
+RESEARCH & WORK EXPERIENCE
 ======
 <!-- * 2021-present: Postdoctoral Research Scholar
   * Department of Psychological & Brain Sciences, University of Iowa
@@ -26,15 +26,15 @@ Research & Work experience
 * 2018–2021	Postdoctoral Research Associate, Institute of Psychology, Chinese Academy of Sciences (Advisor: Xun Liu)
 * 2016–2017	Visiting student, Center for Molecular and Behavioral Neuroscience, Rutgers University (Advisor: Michael W. Cole)
 * 2013–2018	Ph.D. in Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences (Advisor: Xun Liu)
-* 2007–2012		B.Med in Clinical Laboratory Science, Wuhan University
+* 2007–2012		B.Med in Clinical Laboratory Science, Wuhan University (Advisor: Mingxia Yu)
   
-AWARDS
+HONORS & AWARDS
 ======
 * 2020	Annual Representative Research Achievements for CAS Key Laboratory of Behavioral Science, Institute of Psychology
 * 2017-2018	Merit Student, Pacemaker to Merit Student
 * 2016	"Outstanding Research Paper Award" at the 2015 Annual Conference of Institute of Psychology, Chinese Academy of Sciences
-* 2014	“Outstanding Paper”, Postgraduate group, in The 17th National Psychology Academic Conference 
-* 2012		Outstanding Graduates of Wuhan University
+* 2014	"Outstanding Paper", Postgraduate group, in The 17th National Psychology Academic Conference 
+* 2012	Outstanding Graduates of Wuhan University
 * 2008-2010	National Scholarship, National Encouragement scholarship, the First Prize Scholarship, Merit Student
 
 RESEARCH GRANTS
@@ -48,7 +48,7 @@ RESEARCH GRANTS
 * 2016-2019	Sino-German international collaborative project (61621136008/DFG TRR-169 B4/A5)
   Major participant; Total direct costs: ¥1200,000
 
-Talks
+TALKS
 ======
 * 2022	Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control. Brain and Cognitive Science Center Forum, Guangzhou University.
 * 2019	The influence of conflict similarity on conflict adaptation effect. 2019 Annual Conference of General Psychology and Experimental Psychology Committee of Chinese Psychological Society.
@@ -66,11 +66,11 @@ University of Chinese Academy of Sciences
 Project: The Generality/specificity of Cognitive Control in Cross-conflict and Within-conflict Processing
 University of Chinese Academy of Sciences
 
-Teaching
+TEACHING
 ======
-* 2021		fMRI basics and data analyses (https://space.bilibili.com/1384608723/video)
+* fMRI basics and data analyses <a href="https://space.bilibili.com/1384608723/video">video</a>
 
-Skills
+SKILLS
 ======
 * Experimental design:
   * E-prime, OpenSesame (Python),Psychtoolbox (MATLAB), JsPsych (JavaScript)
