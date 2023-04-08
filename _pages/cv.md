@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -55,7 +55,7 @@ TALKS
 
 REVIEWING SERVICE
 ======
-Human Brain Mapping, Attention, Perception, & Psychophysics, Neurobiology of Learning and Memory, CNS Neuroscience & Therapeutics, Frontiers in Psychiatry, BMC Psychology, Scientific Reports, Journal of Magnetic Resonance Imaging, Journal of Psychiatric Research, Advances in Psychological Science (Chinese).
+Human Brain Mapping; Attention, Perception, & Psychophysics; Neurobiology of Learning and Memory; CNS Neuroscience & Therapeutics; Frontiers in Psychiatry; BMC Psychology; Scientific Reports; Journal of Magnetic Resonance Imaging; Journal of Psychiatric Research; Advances in Psychological Science (Chinese).
 
 MENTORING EXPERIENCE
 ======
@@ -68,7 +68,7 @@ University of Chinese Academy of Sciences
 
 TEACHING
 ======
-* fMRI basics and data analyses <a href="https://space.bilibili.com/1384608723/video">video</a>
+* fMRI basics and data analyses. <a href="https://space.bilibili.com/1384608723/video"><i class="zmdi zmdi-collection-video"></i></a>
 
 SKILLS
 ======
