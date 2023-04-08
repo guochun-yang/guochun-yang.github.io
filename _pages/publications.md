@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-9zq+LjJQ+J6tJvzYjvQKgkxjQ9XfZn8sW4+U6yV7fZl1TJ8t1bKw5gZpX9dLW8z8mF5PbOyK2+0m0rNlGvC+Rw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- {% if author.googlescholar %}
