@@ -53,7 +53,7 @@ Other first/corresponding-author Publications
 
 * **Yang, G.**, Nan, W., Li Q., & X., L. (2015). Behavioral and electrophysiological profiles reveal domain-specific conflict processing. Advances in Computational Psychophysiology, 33-34. <a href="http://guochun-yang.github.io/files/CP_2015.pdf" style="color:red;"><i class="zmdi zmdi-collection-pdf mdc-text-red"></i></a> 
 
-Collaborating Publications
+Co-authored Publications
 ======
 * Nan, W., Yan, L., **Yang, G.**, Liu, X., Fu, S (2021). Two processing stages of the SNARC effect. Psychological Research, 1-11. DOI: https://doi.org/10.1007/s00426-021-01506-5
 
