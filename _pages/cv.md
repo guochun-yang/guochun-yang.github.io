@@ -55,7 +55,7 @@ TALKS
 
 REVIEWING SERVICE
 ======
-Human Brain Mapping; Attention, Perception, & Psychophysics; Neurobiology of Learning and Memory; CNS Neuroscience & Therapeutics; Frontiers in Psychiatry; BMC Psychology; Scientific Reports; Journal of Magnetic Resonance Imaging; Journal of Psychiatric Research; Advances in Psychological Science (Chinese).
+Human Brain Mapping; Attention, Perception, & Psychophysics; Neurobiology of Learning and Memory; CNS Neuroscience & Therapeutics; Frontiers in Psychiatry; BMC Psychology; Scientific Reports; Journal of Magnetic Resonance Imaging; Journal of Psychiatric Research; Advances in Psychological Science (Chinese); UIPDA travel award, University of Iowa.
 
 MENTORING EXPERIENCE
 ======
