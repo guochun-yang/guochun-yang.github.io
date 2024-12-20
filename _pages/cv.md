@@ -30,6 +30,9 @@ RESEARCH & WORK EXPERIENCE
   
 HONORS & AWARDS
 ======
+* 2024	Trainee Professional Development Award, SfN 2024
+* 2024	FY25 Travel Award, University of Iowa
+* 2022	UIPDA Travel Award, University of Iowa
 * 2020	Annual Representative Research Achievements for CAS Key Laboratory of Behavioral Science, Institute of Psychology
 * 2017-2018	Merit Student, Pacemaker to Merit Student
 * 2016	"Outstanding Research Paper Award" at the 2015 Annual Conference of Institute of Psychology, Chinese Academy of Sciences
@@ -48,17 +51,22 @@ RESEARCH GRANTS
 * 2016-2019	Sino-German international collaborative project (61621136008/DFG TRR-169 B4/A5)
   Major participant; Total direct costs: ¥1200,000
 
-TALKS
+INVITED TALKS
 ======
+* 2024	Cost-benefit Tradeoff Mediates the Rule- to Memory-based Transition during Practice. University of Nevada, Reno.
+* 2024	Domain- Generality/Specificity of Cognitive Control in Conflict Resolution. Nanjing Normal University.
 * 2022	Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control. Brain and Cognitive Science Center Forum, Guangzhou University.
 * 2019	The influence of conflict similarity on conflict adaptation effect. 2019 Annual Conference of General Psychology and Experimental Psychology Committee of Chinese Psychological Society.
 
 REVIEWING SERVICE
 ======
-Human Brain Mapping; Attention, Perception, & Psychophysics; Neurobiology of Learning and Memory; CNS Neuroscience & Therapeutics; Frontiers in Psychiatry; BMC Psychology; Scientific Reports; Journal of Magnetic Resonance Imaging; Journal of Psychiatric Research; Advances in Psychological Science (Chinese); UIPDA travel award, University of Iowa.
+Human Brain Mapping; Communications Psychology; Attention, Perception, & Psychophysics; Neurobiology of Learning and Memory; CNS Neuroscience & Therapeutics; Frontiers in Psychiatry; Frontiers in Computational Neuroscience; Frontiers in Cognition; BMC Psychology; Scientific Reports; Journal of Magnetic Resonance Imaging; Journal of Psychiatric Research; Advances in Psychological Science (Chinese); UIPDA travel award, University of Iowa; Cognitive Computational Neuroscience 2024 (conference).
 
 MENTORING EXPERIENCE
 ======
+* 2014 - 2019 	Syeda Raiha
+Project: Reward Processing and Cognitive Control Mechanisms among Tobacco Smoking Addicts versus Internet Gaming Addicts
+University of Chinese Academy of Sciences
 * 2015 - 2020 	Zhenghan Li
 Project: The Regulation Mechanisms of Cognitive Control during Multisensory Conflict Processing
 University of Chinese Academy of Sciences

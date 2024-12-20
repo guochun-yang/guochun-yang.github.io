@@ -28,7 +28,9 @@ Click the <i class="zmdi zmdi-collection-pdf" style="color:red;"></i> and <i cla
 
 Selected Publications & Preprints
 ======
-* **Yang, G.**, Wu, H., Li, Q., Liu, X., Fu, Z., & Jiang, J. (2023). Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control. bioRxiv, 2023-02. <a href="http://guochun-yang.github.io/files/Manuscript_forElife.pdf" style="color:red;"><i class="zmdi zmdi-collection-pdf mdc-text-red"></i></a>
+* <strong>Yang, G.*</strong> & Jiang, J. (2024). Cost-benefit Tradeoff Mediates the Transition from Rule-based to Memory-based Processing during Practice. PLOS Biology, accepted. https://doi.org/10.1371/journal.pbio.3002987 <a href="http://guochun-yang.github.io/files/PLOS_Biology_2024.pdf" style="color:red;"><i class="zmdi zmdi-collection-pdf mdc-text-red"></i></a> <a href="https://guochun-yang.blogspot.com/2024/12/researchers-uncover-new-account-for.html" style="color:orange;"><i class="zmdi zmdi-blogger mdc-text-amber"></i></a>
+
+* **Yang, G.**, Haiyan Wu, Qi Li, Xun Liu*, Zhongzheng Fu, Jiefeng Jiang (2024) Dorsolateral prefrontal activity supports a cognitive space organization of cognitive control. eLife 12:RP87126. https://doi.org/10.7554/eLife.87126.5 <a href="http://guochun-yang.github.io/files/eLife_2024.pdf" style="color:red;"><i class="zmdi zmdi-collection-pdf mdc-text-red"></i></a> <a href="https://guochun-yang.blogspot.com/2024/12/cognitive-control-in-continuum.html" style="color:orange;"><i class="zmdi zmdi-blogger mdc-text-amber"></i></a>
 
 * **Yang, G.<sup>#</sup>**, Wang, K.<sup>#</sup>, Nan, W., Li, Q., Zheng, Y., Wu, H., & Liu, X. (2022). Distinct Brain Mechanisms for Conflict Adaptation within and across Conflict Types. Journal of Cognitive Neuroscience, 34(3), 445-460. https://doi.org/10.1162/jocn_a_01806. <a href="http://guochun-yang.github.io/files/jocn_2022.pdf" style="color:red;"><i class="zmdi zmdi-collection-pdf mdc-text-red"></i></a> <a href="https://guochun-yang.blogspot.com/2023/04/struggling-control-in-unadaptable.html" style="color:orange;"><i class="zmdi zmdi-blogger mdc-text-amber"></i></a>
 
@@ -55,6 +57,10 @@ Other first/corresponding-author Publications
 
 Co-authored Publications
 ======
+* Xu, H., **Yang, G.**, Göschl, F., Nolte, G., Ren, Q., Li, Z., ... & Liu, X. (2024). Distinct and common mechanisms of cross-model semantic conflict and response conflict in an auditory relevant task. Cerebral Cortex, 34(3), bhae105. https://doi.org/10.1093/cercor/bhae105 
+
+* Xu, H., **Yang, G.**, Wu, H., Xiao, J., Li, Q., Liu, X. (2024). Distinct mechanisms underlying cross-modal semantic conflict and response conflict processing. Cerebral Cortex, bhad539 https://doi.org/10.1093/cercor/bhad539 
+
 * Nan, W., Yan, L., **Yang, G.**, Liu, X., Fu, S (2021). Two processing stages of the SNARC effect. Psychological Research, 1-11. DOI: https://doi.org/10.1007/s00426-021-01506-5
 
 * Yan, L., **Yang, G.**, Nan, W., Liu, X., Fu, S (2021). The SNARC effect occurs in the response-selection stage. Acta Psychologica, 215, 103292. DOI: https://doi.org/10.1016/j.actpsy.2021.103292 
